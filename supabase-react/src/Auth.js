@@ -23,7 +23,7 @@ export default function Auth() {
   return (
     <div className="row flex-center flex">
       <div className="col-6 form-widget" aria-live="polite">
-        <h1 className="header">Login To Your Account</h1>
+        <h1 className="header">Sign Up Or Login To Your Account</h1>
         <p className="description">
           Sign in via magic link with your email below
         </p>
